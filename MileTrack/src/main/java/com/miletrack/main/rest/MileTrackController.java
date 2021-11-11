@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.miletrack.main.domain.MileTrack;
@@ -19,8 +20,12 @@ import com.miletrack.main.service.MileTrackService;
 //      Receives requests and sends responses 
 
 
-//Added RestController annotation to enable request handling
+//Added @RestController annotation to enable request handling
+//Added @RequestMapping - 
+//It maps HTTP requests to handler methods of MVC and REST controllers.
+
 @RestController
+@RequestMapping
 public class MileTrackController {
 
 	//Create a variable from MileTrackService interface, called MTservice
