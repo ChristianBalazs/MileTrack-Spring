@@ -1,5 +1,3 @@
-# MileTrack-Spring
-DFE Spring project
 
 
 # Welcome to MileTrack project!
