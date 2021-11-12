@@ -42,6 +42,10 @@ The link for MileTrack project on Jira is below:
 https://christianbalazs.atlassian.net/jira/software/projects/MIL/boards/2/backlog
 
 
+## Link to .jar file
+The link for MileTrack .jar file is [here](https://github.com/ChristianBalazs/MileTrack-Spring/blob/MileTrack-jar-file/MileTrack-Jar.jar)
+
+
 
 ## Screenshots - Postman requests from API 
 - Connection test 
