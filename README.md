@@ -9,6 +9,7 @@ DFE Spring project
 ## Why are we doing this?
 1. To experience the entire Software Development cycle from setting up user stories to delivering a fully functional app
 2. Get accustomed with various tools used during the entire software developing cycle.
+3. Use all the concepts, tools and learnings presented during the course.
  
 
 
@@ -19,7 +20,8 @@ I wasn't expecting to spend so much searching online for potential solutions to 
 
 ## What went well?
 
-Getting a better understanding of the entire software development cycle, all steps needed to take. 
+Getting a better understanding of the entire software development cycle, all steps needed to take.
+Managing to overcome the entire complexity of the project and deliver to certain good standard considering it is 1st EVER API Project built.
 
 ## What didn't go as planned ?
 
@@ -27,9 +29,11 @@ Lots of time spend doing research and learning.
 Didn't manage to connect to MySQL, not enough time to do additional research .
 
 
+
 ## Possible improvements for future revisions of the project
 
 Include other features to include all user stories defined at the start of the project.
+Connect to MySQL.
 
 
 ## Link to Jira MileTrack project board
@@ -67,7 +71,7 @@ https://christianbalazs.atlassian.net/jira/software/projects/MIL/boards/2/backlo
 ![Image here](https://github.com/ChristianBalazs/MileTrack-Spring/blob/MileTrack-photos/Readme-pictures/MileTrack-H2DB.jpg)
 
 
-## Daily activities overview 
+# Daily activities overview 
 
 ### Day 1 
 - Read again the DFE Practical project specification to understand all requirements 
