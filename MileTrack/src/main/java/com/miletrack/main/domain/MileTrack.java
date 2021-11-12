@@ -35,6 +35,7 @@ public class MileTrack {
 		
 	private String journeyType;
 	
+		
 	//NOTE:
 	//Create Default constructor ONLY for the use of Hibernate
 	//Hibernate uses the default constructor to create entity objects.
@@ -54,10 +55,12 @@ public class MileTrack {
 		this.fuelType = fuelType;
 		this.milesDone = milesDone;
 		this.journeyType = journeyType;
+		
+			
 	}
 
 
-	//Created Getters and Setters for all 5 variables
+	//Created Getters and Setters for all variables
 	
 	public int getJourneyId() {
 		return journeyId;
@@ -129,11 +132,6 @@ public class MileTrack {
 		this.journeyType = journeyType;
 	}
 
-	
-	
-	
-	
-	
 	
 	
 	
