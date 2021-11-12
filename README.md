@@ -38,8 +38,7 @@ Connect to MySQL.
 
 ## Link to Jira MileTrack project board
 
-The link for MileTrack project on Jira is below: 
-https://christianbalazs.atlassian.net/jira/software/projects/MIL/boards/2/backlog
+The link for MileTrack project on Jira is [here](https://christianbalazs.atlassian.net/jira/software/projects/MIL/boards/2/backlog)
 
 
 ## Link to .jar file
